@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ihsan K</h1>
 <h3 align="center">AI-ML Enthusiast & Entry-level Tech Specialist proficient in Python, Django and Backend roles.Armed with a Master's in Software Development</h3>
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000"
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ihsan292292" alt="ihsan292292" /></a> </p>
 
