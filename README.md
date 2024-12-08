@@ -34,4 +34,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ihsan292292&" alt="ihsan292292" /></p>
 
-![snake gif](https://github.com/ihsan292292/ihsan292292/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/ihsan292292/ihsan292292/blob/output/github-snake.svg)
